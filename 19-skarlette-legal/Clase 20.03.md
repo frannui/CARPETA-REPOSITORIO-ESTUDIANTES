@@ -56,6 +56,45 @@ Durante 1960, invitaron artistas para combinar el arte con la tecnologia, se hac
 
 ¡EXPOSICIÓN:Cybernetic Serendipity - Londres 1968 !  
 
+*Arte u Cibernetica, organizada por jorge gluber (1958).  
+
+* John y Jamer Whitney (1958)  
+No usaron una computadora digital, recuperaron y usaron un computador analogico de la segunda guerra mundial. La modifucaron para hacer el movimiento de la camara y color.
+
+* Sketchpad - Ivan Sutherland (1963)  
+1er programa de informatica para dibujar en una pantalla.  
+--- 
+
+**_Fase 3: Democratización_**  
+
+* Software Libre (1983)  
+La idea de proyecto fue crear un sistema operativo libre
+Free Software Foundation - (FSF)
+
+* Desing By Numbers (1999)
+Experimento educativo radical, consistia en un lenguaje de prgramacion y entorno diseñado especificamente para diseñadores visuales a programar. (No es una herramienta, es una materia)
+
+* John Maeda 
+Interseccion tecnologia + arte + diseño
+Creador de desing by numbers
+
+Director Aesthetics and Computation Group (ACG) en el MIT Media Lab  
+
+Presidente de la (2008 - 2013) Rhode Island School of Design (RISD)  
+
+Vicepresidente de Diseño e IA en Microsoft.
+
+* Processing
+Software libre de codigo abierto, diseñado para la enseñanza.
+
+* P5.Js - *Lauren Mccarthy*
+
+Herramienta online muy amigable para aprender a programar y hacer arte.
+
+* Github
+Plataforma para desarrolladores, compartir y gestionar codigo fuente.
+
+
 
 
 
