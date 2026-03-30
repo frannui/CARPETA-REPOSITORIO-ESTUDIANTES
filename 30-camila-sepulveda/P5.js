@@ -111,8 +111,34 @@ Quad(x1,y1,x2,y2,x3,y3,x4,y4); // un cuadrilatero. sirve para hacer formas irreg
 
 ## Tamaño del borde:
 
-strokeWeight(weight);
+**strokeWeight(weight)**;
+establece tamaño de borde de las figuras o el ancho de la linea y punto . siempre se pone arriba de Stroke();. strokeWeight(weight);
+
+**noStroke()**: se usa para que las figuras no tengan borde. 
+
+
+## Color del borde:
+
+**stroke()** : establece el color de relleno y contornos de las figuras. se coloca arriba de la fihura que se quiera colorear. stroke(v1,v2,v3,[alpha]);. 
+
+
+## forma del borde/linea
+
+**strokeCap()**: Define la forma de la linea o borde de nuestras figuras ( linea terminada redonda, semi redonda o cuadrada), pueden ser **round,
+square,project. strokeCap(cap);. 
+
                                   
+## relleno de color:
+
+**fill()**: establece **color** de relleno de la figura , se pone arriba de la forma para colorear.  fill(v1,v2,v3,[alpha];.
+                                  
+                                                                                                      
+## figuras geometricas 2D avanzadas:
+
+**ar()**: sirve para haceer arcos o medio circulo. **X e Y** son las coordenadas del entro del circulo que contiene este arco, **W y H** son la anchura y
+alto del circulo que contiene este arco. **Star** y **stop** es donde comienza y termina el angulo de este arco. 
+
+**arc(x,y,h,start,stop)**
                                   
   
   
