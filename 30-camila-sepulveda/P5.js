@@ -80,4 +80,18 @@ coordenada x es el ancho, horizontal, y vertical.
 4. transparencia(4 numeros): background(0,255,50); (R,G,B y el cuarto numero es el canal ""alpha""). 
 
 
+##Espacio de color RGB:
+1. H: Hue [0 - 360°]
+2. S: Santuration [0 - 100%]
+3. B: Brightness [0 - 100%]
+
+## Espacio de color HSL:
+1. H: Hue [0 - 360°]
+2. S: Saturation [0 - 100%]
+3. L: Lightness [0 - 100%]
+
+! para cambiar el modo de color a HSB consultar referencia: https://p5js.org/reference/p5/colorMode/                                 
+                                
+
+
   
