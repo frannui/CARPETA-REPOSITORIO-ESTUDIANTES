@@ -3,7 +3,7 @@
 ## Variables  
 Introduciremos el movimiento en P5.js, hay variables que son constantes y otras que van fluctuando, hay algunas variables que vienen intregradas o¿y otras que se pueden crear.
 
-### Pocisión del mouse:  
+#### Pocisión del mouse:  
 *Variable de sistema numerico* que determinan las pocisiones de x,y.   
 **Sintaxis: (mouseX,mouseY)**
 Ejemplo: (ellipse(mouseX,mouseY,100,100)
@@ -62,4 +62,7 @@ En términos simples: toma un número que está en una escala y lo traduce propo
 *Valor*: La variable que quieres "mapear"(por ejemplo, mouseX).  
 *min_original y max_original*: El rango que se encuentra en ese valor actualmente.  
 *min_nuevo y max_nuevo*: El rango al que lo quieres transformar.
+
+### Encargo 04: 
+[![encargo 04](https://i.pinimg.com/736x/dd/6b/e4/dd6be478c7fcd08d5438c5f512577419.jpg)](https://editor.p5js.org/francisca.ovalle/sketches/4CTLaq6i7)
 
