@@ -3,15 +3,19 @@
 ## Transformaciones & condicionales { IF - ELSE }  
 ### Transoformaciones:  
 **¿Qué son los radianes?**  
-Es la forma d emedir los ángulos por defecto en vez de grados.  
+Es la forma de medir los ángulos por defecto en vez de grados.  
 Basicamente otra unidad de medida.  
 
 #### Ángulos:  
 
-angleMode();
+*angleMode();*
 p5.js usa RADIANES oara medir los ángulos.  
-angleMode(RADIANS);
-Se usa en setup
+*angleMode(RADIANS);*
+Se usa en function SETUP  
+*angleMode(DEGREES);*  
+
+**Hay que pensarlo como las agujas del reloj:**  
+![Angulo](https://i.pinimg.com/736x/05/d4/2f/05d42f9b69602ceffd45f459e21d2bd1.jpg)
 
 Rotación  
 rotate();  
