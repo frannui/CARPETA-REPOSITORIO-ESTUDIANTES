@@ -114,4 +114,5 @@ Ejemplo: Si algún estudiante apaga por completo las luces de la sala, la profes
 Si no se cumple lo anterior SI la ayudante se levanta de su silla, la profesora debe cantar.
 Y SI NO SE CUMPLEN NINGUNA DE LAS ANTERIORES, los estudiantes guardan silencio.  
 
-**Encargo 04:**
+**Encargo 04:**  
+[![encargo 04](https://i.pinimg.com/736x/dd/6b/e4/dd6be478c7fcd08d5438c5f512577419.jpg)](https://editor.p5js.org/francisca.ovalle/sketches/Xuo6SRft0)
