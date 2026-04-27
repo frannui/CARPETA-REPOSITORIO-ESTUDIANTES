@@ -33,5 +33,12 @@ pasa esto otro”*.
 Es cuando curre un evento específico (clic) y el sistema responde con una acción única (aparecen
 círculos). Es un interruptor de *"encendido/apagado"* o *"acción/reacción"*.  
 - ***En el código***: Se suele usar dentro de la función *mousePressed()* o con un *if(mouseIsPressed)*.
-
+### 2. Interacción Continua (Input de Datos):  
+Es cuando el sistema reacciona constantemente al movimiento o estado del usuario, sin necesidad
+de hacer algo especifico (clic).  
+- ***En el código***: Usar mouseX o mouseY directamente para afectar el tamaño, color o velocidad
+de algo.
+---
+### Funciones propias:  
+Modularidad y Reusabilidad
 
